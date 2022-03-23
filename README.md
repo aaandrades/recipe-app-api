@@ -1,4 +1,4 @@
-## :rocket: Journal-App
+## :rocket: Recipe-API
 
 ![aaandrades](https://img.shields.io/badge/-Backend-blue)
 [![Django CI](https://github.com/aaandrades/recipe-app-api/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/aaandrades/recipe-app-api/actions/workflows/django.yml)
