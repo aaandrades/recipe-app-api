@@ -1,7 +1,6 @@
 ## :rocket: Journal-App
 
 ![aaandrades](https://img.shields.io/badge/-Backend-blue)
-![Build](https://img.shields.io/badge/-Working-brightgreen)
 [![Django CI](https://github.com/aaandrades/recipe-app-api/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/aaandrades/recipe-app-api/actions/workflows/django.yml)
 
 ### :memo: Description
