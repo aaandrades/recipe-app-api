@@ -28,7 +28,7 @@ Advanced Python application built with Django Rest Framework. An API that manage
 
 ### :hammer: Demostration
 
---
+-- DOCKER
 
 ### :bulb: Run the App
 
